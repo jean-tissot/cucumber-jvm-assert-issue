@@ -72,7 +72,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <configuration>
                     <!-- Uncomment the following line to disable java assertions -->
-                    <!-- <argLine>-da</argLine> -->
+                     <argLine>-da</argLine>
                 </configuration>
             </plugin>
         </plugins>
