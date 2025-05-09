@@ -4,4 +4,3 @@ Feature: call my service
     When I list the persons:
       | # | name  |
       | 1 | John  |
-      | 2 | Peter |
